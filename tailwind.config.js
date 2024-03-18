@@ -10,7 +10,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'home': 'url(./public/assets/bg.png)',
+        'home': 'url(./src/assets/bg.png)',
       }
     },
   },
