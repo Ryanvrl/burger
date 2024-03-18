@@ -156,7 +156,7 @@ const Home = () => {
         <main className="grid grid-cols-1 md:grid-cols-2 gap-7 md:gap-8 mx-auto max-w-7xl mb-16 px-1 lg:px-0">
 
           <div className='flex gap-2 '>
-            <img src="./src/assets/hamb-1.png" alt="Hamburger" className='w-28 h-28 rounded-md hover:scale-110 hover:-rotate-2 duration:-300' />
+            <img src="./assets/hamb-1.png" alt="Hamburger" className='w-28 h-28 rounded-md hover:scale-110 hover:-rotate-2 duration:-300' />
             <div className=''>
               <p className='font-bold'>Hamburger Smash</p>
               <p className="text-sm">Cheese Burger Duplo Pão levinho de fermentação natural da Trigou, burger 160g, queijo prato e maionese da casa</p>
