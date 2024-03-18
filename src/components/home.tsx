@@ -93,7 +93,7 @@ const Home = () => {
 
   const handleSearch = async () => {
     if (!checkRestaurantOpen()) {
-      alert('Estamos fora do horário de funcionamento. Volte entre as 18 às 22 horas')
+      alert('Estamos fora do horário de funcionamento. Atendemos das 18 às 22 horas.')
       return
     }
 
